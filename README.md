@@ -5,7 +5,7 @@
 ### 📅 Release: 2025  
 ### 🌍 Language: Sindhi (سنڌي)  
 ### 📦 Dataset Type: Preprocessed Newspaper & Article Corpus
-
+### 🌐 Official Uploading Credit: [ambile.pk](https://ambile.pk/) 
 ---
 
 ## 📖 Overview
